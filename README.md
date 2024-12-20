@@ -20,7 +20,7 @@
 Скрипт принимает текст конфигурационного файла через стандартный ввод и выводит xml в стандартный вывод.
 
 ```bash
-Get-content input.xml | py hw3.py
+cat input.xml | python hw3.py
 ```
 
 # Тесты
@@ -33,5 +33,5 @@ Get-content input.xml | py hw3.py
    
 2. Для запуска тестирования необходимо запустить следующий скрипт:
    ```shell
-   py unittests.py
+   python unittests.py
    ```
