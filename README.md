@@ -35,3 +35,21 @@ cat input.xml | python hw3.py
    ```shell
    python unittests.py
    ```
+
+   Входные данные
+<config>
+    <constant name="myconstant">42</constant>
+    <dictionary>
+        <item name="firstcame">John</item>
+        <item name="lastcame">Doe</item>
+        <item name="age">30</item>
+    </dictionary>
+    <constant name="myage">22</constant>
+    
+    <comment>This is comment</comment>
+</config>
+
+   Вывод
+
+<img width="567" alt="Снимок экрана 2024-12-20 в 15 52 36" src="https://github.com/user-attachments/assets/6ba56d37-b4d2-479f-b366-fc5487f4be8c" />
+
