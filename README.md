@@ -50,7 +50,8 @@ cat input.xml | python hw3.py
 
    Вывод
 
-<img width="567" alt="Снимок экрана 2024-12-20 в 15 52 36" src="https://github.com/user-attachments/assets/49817dd3-6688-4683-950d-0bf4c6a194da" />
+<img width="565" alt="Снимок экрана 2024-12-20 в 16 13 23" src="https://github.com/user-attachments/assets/7c2cf3ac-027d-4d82-9e02-ec0f2beb503d" />
+
 
 
 
