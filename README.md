@@ -37,17 +37,8 @@ cat input.xml | python hw3.py
    ```
 
    Входные данные
-<config>
-    <constant name="myconstant">42</constant>
-    <dictionary>
-        <item name="firstcame">John</item>
-        <item name="lastcame">Doe</item>
-        <item name="age">30</item>
-    </dictionary>
-    <constant name="myage">22</constant>
-    
-    <comment>This is comment</comment>
-</config>
+<img width="444" alt="Снимок экрана 2024-12-20 в 15 50 56" src="https://github.com/user-attachments/assets/917119dd-5c05-4df4-bb12-e8ff2fd81b3c" />
+
 
    Вывод
 
