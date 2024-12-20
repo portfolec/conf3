@@ -44,3 +44,13 @@ cat input.xml | python hw3.py
 
 <img width="567" alt="Снимок экрана 2024-12-20 в 15 52 36" src="https://github.com/user-attachments/assets/6ba56d37-b4d2-479f-b366-fc5487f4be8c" />
 
+   Входные данные
+
+<img width="558" alt="Снимок экрана 2024-12-20 в 16 13 14" src="https://github.com/user-attachments/assets/d885c5c7-e850-4600-83ab-31cb184063ec" />
+
+   Вывод
+
+<img width="567" alt="Снимок экрана 2024-12-20 в 15 52 36" src="https://github.com/user-attachments/assets/49817dd3-6688-4683-950d-0bf4c6a194da" />
+
+
+
